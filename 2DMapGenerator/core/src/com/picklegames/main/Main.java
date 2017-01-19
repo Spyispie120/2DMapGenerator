@@ -15,6 +15,7 @@ import com.picklegames.noises.PerlinNoiseVariation;
 import com.picklegames.noises.SimplexNoise;
 
 public class Main extends ApplicationAdapter {
+	//comment
 	enum NoiseTest{
 		PERLIN, SIMPLEX
 	}
